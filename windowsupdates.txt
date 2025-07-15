@@ -9,7 +9,8 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
-*.ad.cleanaway.com.au
+wprcfm02.ad.cleanaway.com.au
+br417wprfs01.ad.cleanaway.com.au
 *.b1.download.windowsupdate.com
 *.dl.delivery.mp.microsoft.com
 *.download.windowsupdate.com
